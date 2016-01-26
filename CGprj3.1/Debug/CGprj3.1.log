@@ -1,0 +1,141 @@
+﻿生成启动时间为 2016/1/11 11:50:16。
+     1>项目“C:\Documents\Projects\VS\CGprj3.1\CGprj3.1\CGprj3.1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\sky.h(32): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\gameoverobj.h(11469): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\gameoverobj.h(11469): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\gameoverobj.h(22926): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\gameoverobj.h(22926): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\feetmtl.h(32): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\feetmtl.h(32): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\feetobj.h(19743): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\feetobj.h(19743): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\feetobj.h(39474): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\feetobj.h(39474): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\feetobj.h(59205): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\feetobj.h(59205): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\creammtl.h(46): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\creammtl.h(46): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\creammtl.h(52): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\creammtl.h(52): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\creamobj.h(5247): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\creamobj.h(5247): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\creamobj.h(10482): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\creamobj.h(10482): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\creamobj.h(15717): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\creamobj.h(15717): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(32): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(32): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(34): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(34): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(126): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(128): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(129): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(130): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(131): warning C4800: “double”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(132): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(135): warning C4804: “-=”: 在操作中使用类型“bool”不安全
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(135): warning C4800: “float”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(161): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(173): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(173): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(253): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(288): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(289): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(290): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(291): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(297): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(298): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(303): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(304): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(319): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(320): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(321): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(322): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(328): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(329): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(334): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(335): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(346): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(347): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(348): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(349): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(355): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(356): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(361): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(362): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(373): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(374): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(375): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(376): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(382): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(383): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(388): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(389): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(406): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(407): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(408): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(409): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(415): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(416): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(421): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(422): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(433): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(434): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(435): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(436): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(442): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(443): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(448): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(449): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(460): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(461): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(462): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(463): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(469): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(470): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(475): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(476): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(553): warning C4305: “-=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(556): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(565): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(568): warning C4305: “-=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(571): warning C4305: “-=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(574): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(678): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(685): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(692): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(696): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(696): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(702): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(702): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(767): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(788): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(818): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(864): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(884): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(895): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(908): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(911): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(919): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(930): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(940): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(948): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(949): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(950): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(952): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(953): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(954): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(985): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+     1>c:\documents\projects\vs\cgprj3.1\cgprj3.1\main.cpp(985): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents\Projects\VS\CGprj3.1\Debug\CGprj3.1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Documents\Projects\VS\CGprj3.1\Debug\CGprj3.1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents\Projects\VS\CGprj3.1\Debug\CGprj3.1.lib" /MACHINE:X86 Debug\main.obj
+         CGprj3.1.vcxproj -> C:\Documents\Projects\VS\CGprj3.1\Debug\CGprj3.1.exe
+     1>已完成生成项目“C:\Documents\Projects\VS\CGprj3.1\CGprj3.1\CGprj3.1.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.83
